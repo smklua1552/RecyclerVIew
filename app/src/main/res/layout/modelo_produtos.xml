@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-
+    android:id="@+id/cardProdutos"
     android:layout_width="200dp"
     android:layout_height="300dp"
     android:layout_margin="10dp"
@@ -32,6 +32,7 @@
         android:text="Manga"
         android:textAlignment="center"
         android:textSize="35dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:id="@+id/modTituloProduto" />
 
 </androidx.cardview.widget.CardView>
