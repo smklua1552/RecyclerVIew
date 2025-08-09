@@ -34,5 +34,4 @@
         android:textSize="35dp"
         android:textStyle="bold" />
 
-
 </androidx.cardview.widget.CardView>
